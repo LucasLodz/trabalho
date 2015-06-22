@@ -3,6 +3,14 @@ public class A {
 
 	int A1;
 	float A2;
+	String A3;
+	
+	public String getA3() {
+		return A3;
+	}
+	public void setA3(String a3) {
+		A3 = a3;
+	}
 	public int getA1() {
 		return A1;
 	}
